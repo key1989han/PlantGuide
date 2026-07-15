@@ -1,0 +1,18 @@
+{
+  "species_id": "crassula_ovata",
+  "observer": "key1989han",
+  "date": "2026-07-16",
+  "location": {
+    "latitude": 35.6892,
+    "longitude": 51.389,
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "environment": "Indoor pot, east-facing window",
+  "health": "healthy",
+  "height_cm": 45,
+  "spread_cm": 35,
+  "leaf_count": 28,
+  "notes": "Well-established plant with thick trunk developing. Glossy green leaves with red margins in bright light. No pests observed.",
+  "photos": []
+}
