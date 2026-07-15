@@ -1,0 +1,18 @@
+{
+  "species_id": "nephrolepis_exaltata",
+  "observer": "key1989han",
+  "date": "2026-07-16",
+  "location": {
+    "latitude": 35.6892,
+    "longitude": 51.389,
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "environment": "Bathroom with frosted window, high humidity",
+  "health": "healthy",
+  "height_cm": 50,
+  "spread_cm": 55,
+  "leaf_count": 42,
+  "notes": "Thriving in bathroom humidity. Fronds long and arching, vibrant green. No brown tips. Regular misting maintains humidity.",
+  "photos": []
+}
