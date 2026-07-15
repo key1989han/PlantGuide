@@ -1,0 +1,18 @@
+{
+  "species_id": "aloe_vera",
+  "observer": "key1989han",
+  "date": "2026-07-16",
+  "location": {
+    "latitude": 35.6892,
+    "longitude": 51.389,
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "environment": "Indoor pot, south-facing window",
+  "health": "healthy",
+  "height_cm": 35,
+  "spread_cm": 30,
+  "leaf_count": 12,
+  "notes": "Mature plant with 3 offsets ready for propagation. Leaves thick and firm, gel clear. No signs of pests or rot.",
+  "photos": []
+}
