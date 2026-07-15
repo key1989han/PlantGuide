@@ -1,0 +1,46 @@
+{
+  "id": "nephrolepis_exaltata",
+  "common_name": "Boston Fern",
+  "scientific_name": "Nephrolepis exaltata",
+  "family": "Lomariopsidaceae",
+  "genus": "Nephrolepis",
+  "description": "Boston fern is a classic houseplant with gracefully arching fronds. It thrives in humid environments and is excellent for air purification. Popular in hanging baskets and pedestals.",
+  "water_needs": "high",
+  "light_needs": "medium_indirect",
+  "temperature_min_c": 15,
+  "temperature_max_c": 25,
+  "humidity_preference": "high",
+  "difficulty": "medium",
+  "growth_rate": "moderate",
+  "max_height_cm": 90,
+  "max_spread_cm": 90,
+  "bloom_season": "none",
+  "flower_color": "none",
+  "is_toxic_to_pets": false,
+  "is_toxic_to_humans": false,
+  "care_instructions": {
+    "watering": "Keep soil consistently moist but not soggy. Never let dry out completely.",
+    "lighting": "Medium to bright indirect light. Avoid direct sun which scorches fronds.",
+    "soil": "Rich, well-draining potting mix with peat moss and perlite.",
+    "fertilizing": "Balanced liquid fertilizer at half strength monthly during growing season.",
+    "repotting": "Annually in spring when roots fill pot. Prefers slightly tight pots.",
+    "propagation": "Division of root ball during repotting. Separate into smaller clumps."
+  },
+  "common_issues": [
+    "Brown frond tips from low humidity or underwatering",
+    "Yellowing from overwatering or poor drainage",
+    "Spider mites in dry conditions",
+    "Frond drop from temperature shock"
+  ],
+  "companion_plants": [
+    "pilea_peperomioides",
+    "calathea",
+    "peperomia"
+  ],
+  "uses": [
+    "air_purification",
+    "hanging_basket",
+    "humidity_loving",
+    "pet_safe"
+  ]
+}
